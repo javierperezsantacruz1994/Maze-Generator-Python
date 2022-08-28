@@ -7,8 +7,6 @@ Generate a simple maze using the recursive backtracking algorithm
 3. `python main_maze.py`
 
 ## Configuration
-- Set number of columns and rows of the maze matrix \
-- Default parameters:
-  L_width = 10                     # Number of columns of the maze matrix
-  L_height = 10                    # Number of rows of the maze matrix
+- Set number of columns and rows of the maze matrix 
+- Default parameters: L_width = 10, L_height = 10        
 ![ss1](maze_figure.png)
